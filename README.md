@@ -1,8 +1,8 @@
 # Hi 👋, I'm zhihaojiang
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=super-213&label=Profile views&color=0e75b6&style=flat" alt="super-213" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=super-213" alt="super-213" /></a> </p>
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=super-213&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 - 🌱 I'm currently learning **Python**
 
