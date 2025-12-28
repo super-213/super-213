@@ -1,6 +1,6 @@
 # Hi 👋, I'm zhihaojiang
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=super-213&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-main-zhihaojiangs-projects.vercel.app?user=super-213&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
 
 - 🌱 I'm currently learning **Python**
 
